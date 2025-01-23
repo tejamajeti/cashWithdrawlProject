@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.cash-btn {
+  background-color: #585076;
+  color: #d4d2db;
+  font-size: 15px;
+  font-family: 'Roboto';
+  border-radius: 8px;
+  outline: none;
+  cursor: pointer;
+  border: 1px #d4d2db solid;
+  padding: 6px;
+  margin: 8px;
+  width: 130px;
+  height: 35px;
+}
